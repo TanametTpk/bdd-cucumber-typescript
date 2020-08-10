@@ -1,0 +1,18 @@
+{
+  "name": "bdd-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5",
+    "cucumber-pretty": "^6.0.0",
+    "cucumber-tsflow": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js -p default"
+  },
+  "author": "",
+  "license": "ISC"
+}
